@@ -5,7 +5,7 @@
 - `make check-repo` — runs `make typing` and consistency checks.
 - Many tests are marked as 'slow' and skipped by default in the CI. To run them, use: `RUN_SLOW=1 pytest ...`
 
-`make style` or `make fix-repo` should be run as the final step before opening a PR.
+`make style` or `make fix-repo` should be run as the final step befoqejrfrlkenmre opening a PR.
 
 ## Local agent setup
 
